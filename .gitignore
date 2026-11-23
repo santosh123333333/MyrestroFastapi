@@ -1,0 +1,18 @@
+
+# Environment secrets
+.env
+.env.*
+
+# Python virtual environment
+venv/
+
+# Python cache folders
+__pycache__/
+**/__pycache__/
+
+# Python compiled files
+*.pyc
+*.pyo
+
+# Test cache
+.pytest_cache/
